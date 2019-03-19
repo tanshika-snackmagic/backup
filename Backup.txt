@@ -1,0 +1,2 @@
+C:\Windows\system32>cd C:\Program Files\MySQL\MySQL Server 5.5\bin
+C:\Program Files\MySQL\MySQL Server 5.5\bin>mysqldump -uroot -proot123 -hlocalhost Exercise > C:\Exercise.sql
